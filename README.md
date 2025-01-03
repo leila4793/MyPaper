@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or collaborations, please contact:
 
 - **Leila Akbari**: leila.akbari@qiau.ac.ir
-- **GitHub**: [leila-akbari]([https://github.com/leila-akbari](https://github.com/leila4793))
+- **GitHub**: ([https://github.com/leila-akbari](https://github.com/leila4793))
 
 ---
 
