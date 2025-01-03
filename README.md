@@ -55,16 +55,16 @@ To perform blister card counting, run the following command:
 python count_blister_cards.py --image_path /path/to/image
 ```
 ## block diagram
-![Workflow Block Diagram](D:/my_class/AI/Mypapper/imgs/bd.png)
+![Workflow Block Diagram](imgs/bd.png)
 
 ### Example
 Input:
 
-![Sample Input](D:/my_class/AI/Mypapper/imgs/f8b1.png)
+![Sample Input](imgs/f8b1.png)
 
 Output:
 
-![Sample Output](D:/my_class/AI/Mypapper/imgs/f8b2.png)
+![Sample Output](imgs/f8b2.png)
 
 ## Results
 The proposed method achieves high accuracy on diverse datasets, as detailed in the paper:
