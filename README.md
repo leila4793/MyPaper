@@ -37,7 +37,7 @@ To set up the environment and run the project:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/blister-card-counting.git
+   git clone git@github.com:leila4793/MyPaper.git
    cd blister-card-counting
    ```
 
@@ -55,22 +55,26 @@ To perform blister card counting, run the following command:
 python count_blister_cards.py --image_path /path/to/image
 ```
 ## block diagram
-![Workflow Block Diagram](D:/my_class/AI/Mypapper/imgs/bd.png)
+<img src="imgs/bd.png" alt="Block Diagram" width="600"/>
 
 ### Example
 Input:
 
-![Sample Input](D:/my_class/AI/Mypapper/imgs/f8b1.png)
+<img src="imgs/f8b1.png" alt="Sample Input" width="400"/>
 
 Output:
 
-![Sample Output](D:/my_class/AI/Mypapper/imgs/f8b2.png)
+<img src="imgs/f8b2.png" alt="Sample Output" width="400"/>
 
 ## Results
 The proposed method achieves high accuracy on diverse datasets, as detailed in the paper:
 
 - **Accuracy**: 98.5%
 - **Processing Time**: Average 0.5 seconds per image
+
+<img src="imgs/f10a.png" alt="Confusion Matrix Raddon" width="400"/>
+
+<img src="imgs/f10b.png" alt="Confusion Matrix HOG" width="400"/>
 
 ## Citation
 If you find this repository useful in your research or work, please cite the following paper:
